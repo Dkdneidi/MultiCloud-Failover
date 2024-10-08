@@ -3,12 +3,11 @@
 # AWS와 NHN Cloud를 이용한 멀티클라우드 재해복구시스템
 </div>
 
-> ‼️이 프로젝트는 [NHN 클라우드를 활용한 IaaS 티켓팅 웹사이트](https://github.com/KDT-EEM/TickettingWeb/edit/main/README.md#5-클라우드-구축-과정)에서 클라우드 구조를 멀티 클라우드로 재구축한 프로젝트입니다.‼️
 
 <div align="center">
   
-## KT클라우드와 NHN Cloud로 완성하는 클라우드 엔지니어 양성 3차 프로젝트 
-## 🦁KDT 1팀🐯
+
+## 🦁충북대 정보통신공학부 19학번 졸업작품🐯
 
 
 <h1>📚STACKS</h1>
